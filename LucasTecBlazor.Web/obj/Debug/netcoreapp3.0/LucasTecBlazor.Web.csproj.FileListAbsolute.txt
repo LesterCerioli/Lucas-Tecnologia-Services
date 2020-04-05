@@ -133,3 +133,5 @@ Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\net
 Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\netcoreapp3.0\Razor\Shared\MainLayout.razor.g.cs
 Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\netcoreapp3.0\Razor\Shared\NavMenu.razor.g.cs
 Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\netcoreapp3.0\Razor\_Imports.razor.g.cs
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Account\LogOut.cshtml.g.cs
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecBlazor.Web\obj\Debug\netcoreapp3.0\Razor\Areas\Identity\Pages\Shared\_LoginPartial.cshtml.g.cs
