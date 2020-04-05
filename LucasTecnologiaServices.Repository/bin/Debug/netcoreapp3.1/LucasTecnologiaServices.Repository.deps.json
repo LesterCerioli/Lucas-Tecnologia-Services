@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LucasTecnologiaServices.Repository/1.0.0": {
+        "runtime": {
+          "LucasTecnologiaServices.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LucasTecnologiaServices.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

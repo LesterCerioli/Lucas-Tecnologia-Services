@@ -1,0 +1,43 @@
+<style>
+  body {
+    color: white;
+  }
+</style>
+
+<address>
+  Avenida Vicente de Carvalho, 1086 Rua "I" 22<br />
+  Rio de Janeiro, RJ- Brasil<br /> 21210-630<br />
+  <abbr title="Telefone">P:</abbr>
+  <p><a class="btn btn-primary btn-lg">+55 21 3042-5441</a></p>
+</address>
+
+<address>
+  <p><a href="mailto:comercial2018@lucastecnologiaservices.com.br" class="btn btn-primary btn-lg">Email/Comercial &raquo;</a></p>
+
+</address>
+<div class="container" style="background-color: orange">
+
+
+  <h1>Envie-nos sua mensagem</h1>
+
+  <form method="post" action="/Agradecimento/Index">
+    <input type="hidden" name="redirect" value="/Agradecimento/Index">
+    <input name="recipient" value="comercial2018@lucastecnologiaservices.com.br" type="hidden">
+    <input name="required" value="recipient,email,realname,subject,message" type="hidden">
+    <input type="hidden" name="sort" value="order:recipient,email,realname,subject,message">
+    <input type="hidden" name="subject" value="Contato">
+
+    Nome: <input name="realname" size=25> Email: <input name="email" size=30> <br> <br>
+    Empresa: <input name="realname" size=25> Cidade/Estado: <input name="email" size=30> <br> <br>
+    Assunto: <input name="subject" size=30> <br>
+    Mensagem :<br> <textarea name=message rows=8 cols=50> </textarea> <br>
+    <input type="submit" value="Envie sua mensagem" name="submit">
+    <input type="reset" value="Limpar" name="reset">
+  </form>
+
+
+
+
+
+
+</div>

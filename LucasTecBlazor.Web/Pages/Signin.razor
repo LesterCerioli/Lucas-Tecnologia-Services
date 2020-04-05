@@ -1,0 +1,23 @@
+﻿<h3>Signin</h3>
+@using Microsoft.AspNetCore.Components.Authorization
+@inject AuthenticationStateProvider AuthenticationStateProvider 
+
+<button @onclick="LogUsername">Write user info to console</button>
+
+@code {
+    private async Task LogUsername()
+    {
+        var authState = await AuthenticationStateProvider.GetAuthenticationStateAsync();
+        var user = authState.User;
+        if (user.Identity.IsAuthenticated)
+        {
+            Console.WriteLine($"{user.Identity.Name}");
+        }
+        else
+        {
+            Console.WriteLine("The user isn't authenticated");
+        }
+    }
+
+
+}

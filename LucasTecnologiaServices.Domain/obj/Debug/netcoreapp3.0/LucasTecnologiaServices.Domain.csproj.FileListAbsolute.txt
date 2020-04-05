@@ -1,0 +1,17 @@
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.deps.json
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.dll
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.pdb
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.csprojAssemblyReference.cache
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.AssemblyInfoInputs.cache
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.AssemblyInfo.cs
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.dll
+D:\Repositorios\LucasTecS\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.pdb
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.deps.json
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.dll
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\bin\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.pdb
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.csprojAssemblyReference.cache
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.csproj.CoreCompileInputs.cache
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.AssemblyInfoInputs.cache
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.AssemblyInfo.cs
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.dll
+Z:\R4epositoriuos\Azure\LucasTecnologiaServices\LucasTecnologiaServices.Domain\obj\Debug\netcoreapp3.0\LucasTecnologiaServices.Domain.pdb
